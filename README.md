@@ -5,5 +5,5 @@ Your code and your partner's code will be shared in a side-by-side format so you
 You can copy your partner's code and paste it in your IDE to execute the code.
 
 OWNERS:
-[Sam Shervin](https://github.com/samshervin)
+[Sam Shervin](https://github.com/samshervin), 
 [Giriharan](https://github.com/Ch13fg)
